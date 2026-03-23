@@ -106,7 +106,7 @@ penso em software como **arquitetura, não apenas código**.
 
 ## 📫 Contato
 
-- GitHub: [https://github.com/SEU_USERNAME](https://github.com/ToddynhoVT9)
+- GitHub: [ToddynhoVT9](https://github.com/ToddynhoVT9)
 - Email: mateuslopes9954@gmail.com
 
 ---
