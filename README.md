@@ -98,8 +98,8 @@ penso em software como **arquitetura, não apenas código**.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ToddynhoVT9E&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToddynhoVT9E&layout=compact&theme=dark"/>
 </p>
 
 ---
