@@ -64,7 +64,7 @@ penso em software como **arquitetura, não apenas código**.
 - Organização de rotas e páginas
 - Deploy funcional
 
-🔗 Acesso: https://famax.toddynhovt.com/html/index.html
+🔗 Acesso: https://famax.toddynhovt.com
 
 ---
 
