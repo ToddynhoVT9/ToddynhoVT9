@@ -52,6 +52,8 @@ penso em software como **arquitetura, não apenas código**.
 - Organização por componentes reutilizáveis
 - Base para expansão futura (conteúdo + sistema)
 
+🔗 Acesso: https://toddynhovt.com
+
 ---
 
 ### 🔹 Famax
@@ -72,6 +74,8 @@ penso em software como **arquitetura, não apenas código**.
 - Lógica de jogo em frontend
 - Controle de estado
 - Interatividade em tempo real
+
+🔗 Acesso: https://github.com/ToddynhoVT9/gameRunner
 
 ---
 
